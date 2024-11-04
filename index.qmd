@@ -1,0 +1,16 @@
+---
+title: "Deep Blue Analysis, LLC"
+format: html
+editor: visual
+theme:  cosmo
+---
+
+## Our Services
+
+Deep Blue Analysis provides statistical consulting, education, training sessions and strategic guidance to corporate, non-profit, and government clients.
+
+## Our Team
+
+Deep Blue is led by D. Alex Hughes.
+
+Alex received his PhD in 2016 from the University of California, San Diego. He is currently a member of the faculty in the School of Information at UC Berkeley where he holds an appointment as an Associate Professor of Practice.
